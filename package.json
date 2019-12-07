@@ -1,0 +1,29 @@
+{
+  "name": "projeto-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.14",
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielbemo/mongodb-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielbemo/mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/Gabrielbemo/mongodb-crud#readme"
+}
